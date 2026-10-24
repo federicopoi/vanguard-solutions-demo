@@ -1,0 +1,5 @@
+@font-face{font-family:Interface;src:url('/media/inter-500.woff2') format('woff2');font-weight:500;font-display:swap}
+@font-face{font-family:Interface;src:url('/media/inter-600.woff2') format('woff2');font-weight:600;font-display:swap}
+@font-face{font-family:Interface;src:url('/media/inter-700.woff2') format('woff2');font-weight:700;font-display:swap}
+@font-face{font-family:Display;src:url('/media/display-regular.woff2') format('woff2');font-weight:400;font-display:swap}
+@font-face{font-family:Display;src:url('/media/display-bold.woff2') format('woff2');font-weight:700;font-display:swap}

@@ -1,0 +1,36 @@
+IMAGE-TO-VIDEO: REALISTIC SLOW APPROACH TO A FRONT PORCH
+
+Upload this reference image:
+/Users/fedepoi/vanguard_solutions_demo/output/4k/gallery-porch-front.jpg
+
+REFERENCE NOTE
+The reference is an AI recreation based on Vanguard's Facebook project photos, not an original photograph. Generate a faithful animated visualization of this reference.
+
+GOAL
+Create one photorealistic architectural shot using the uploaded image as the exact opening frame. The camera slowly approaches this brick home's finished porch from the existing viewpoint. Preserve the composition and the character of the actual project. Do not redesign or upgrade the house.
+
+CAMERA MOVEMENT
+Use a stabilized, human-eye-level camera, approximately 1.6 meters above the ground. Move straight forward only about 0.5 meter over the entire clip, along the clear approach toward the porch stairs. Keep the existing viewing direction and camera orientation fixed. Stop before reaching the first stair. Do not climb the stairs, cross the railing, enter the house, or move through shrubs or other solid objects. If there is insufficient clear space, shorten the travel distance rather than changing the route.
+
+The camera physically translates through the scene. Do not digitally zoom, scale the image, orbit, pan, tilt, or rotate. Motion is extremely slow, continuous, and steady, at a constant speed, with no shake, head bobbing, acceleration, or speed ramps. Preserve a natural architectural lens perspective without fisheye distortion.
+
+ENVIRONMENT CONSISTENCY
+Preserve the brickwork, gray metal roof, dormers, white porch columns, white railings, gray deck boards and stairs, dark green shutters, windows, front door, shrubs, trees, and warm interior lights exactly as shown. Keep their geometry, proportions, materials, colors, and positions consistent throughout the clip.
+
+Maintain the reference lighting, exposure, shadows, and time of day. Keep foliage nearly still. No moving shadows, shifting reflections, flickering lights, changing sky, bending columns, warping railings, or swimming textures. Do not add furniture, landscaping, people, vehicles, pets, signs, or decorations. Do not invent new rooms or architectural features.
+
+SCROLL-ANIMATION REQUIREMENTS
+This clip will be extracted into frames for a scroll-controlled website hero. Use one uninterrupted shot with a clear starting and ending position. Every adjacent frame must change only slightly. No cuts, transitions, dissolves, loops, independent object animation, motion graphics, text, logos, borders, or overlays. Keep motion blur minimal so individual frames remain sharp. The first frame must match the uploaded image as closely as possible.
+
+VISUAL QUALITY
+Believable real-estate footage, crisp material detail, natural daylight, realistic depth and parallax, stable architecture, and consistent exposure. Avoid a synthetic CGI appearance, exaggerated saturation, artificial lens effects, heavy blur, and aggressive cinematic grading.
+
+OUTPUT TARGET
+Duration: 8-10 seconds, or the maximum supported duration.
+Aspect ratio: 16:9 landscape.
+Resolution: 1920x1080 or higher, if available.
+Frame rate: 30 FPS, if available.
+No audio needed.
+
+FINAL CHECK
+The result should feel like a person taking a small, smooth step toward the finished porch. It must never pass through the stairs, railing, columns, shrubs, or building. A restrained, geometrically stable move is more important than covering a large distance.

@@ -1,0 +1,12 @@
+{
+  "frameCount": 239,
+  "width": 1280,
+  "height": 720,
+  "mobileWidth": 720,
+  "mobileHeight": 406,
+  "pattern": "frame-%04d.webp",
+  "sourceFrameCount": 239,
+  "sourceFPS": 24.0,
+  "sampleStride": 1,
+  "duration": 9.963
+}

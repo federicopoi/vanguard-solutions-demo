@@ -1,0 +1,16 @@
+node_modules/
+.wrangler/
+dist/
+.DS_Store
+test-results/
+playwright-report/
+.env*
+!.env.example
+/artifacts/
+/content/
+/current_website_photos/
+/dribble_inspirations/
+/tmp/
+/output/imagegen/**/*.png
+/output/imagegen/*.png
+/versions/*/artifacts/

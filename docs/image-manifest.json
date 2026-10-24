@@ -1,0 +1,205 @@
+{
+  "gallery-porch-front": {
+    "native": [
+      1672,
+      941
+    ],
+    "master": [
+      3840,
+      2160
+    ],
+    "upscaled": true,
+    "width": 1536,
+    "height": 864,
+    "reference": "post-00-00",
+    "prompt": "Use case: precise-object-edit / photorealistic-natural. Recreate the real renovation in the reference as a clean high-resolution architectural photograph for a website demo. Preserve the actual project: room geometry, cabinet arrangement, building shape, materials, finishes, colors and proportions. Improve sharpness, balanced exposure, straight verticals and photographic clarity. Keep it believable and ordinary, not a luxury redesign. Remove phone screenshot borders, collage graphics, captions, watermark and promotional text. No invented furniture, rooms, fixtures, features or people. Use ONLY the upper finished porch photograph as reference: brick house, gray composite porch boards, white columns and railings, central stairs, gray metal roof and dormers, green shrubs. Show the same finished front elevation in natural daylight. One clean photo, landscape. Output a 3840x2160 4K landscape master."
+  },
+  "gallery-porch-walk": {
+    "native": [
+      941,
+      1672
+    ],
+    "master": [
+      2160,
+      3840
+    ],
+    "upscaled": true,
+    "width": 1122,
+    "height": 1995,
+    "reference": "post-02-00",
+    "prompt": "Use case: precise-object-edit / photorealistic-natural. Recreate the real renovation in the reference as a clean high-resolution architectural photograph for a website demo. Preserve the actual project: room geometry, cabinet arrangement, building shape, materials, finishes, colors and proportions. Improve sharpness, balanced exposure, straight verticals and photographic clarity. Keep it believable and ordinary, not a luxury redesign. Remove phone screenshot borders, collage graphics, captions, watermark and promotional text. No invented furniture, rooms, fixtures, features or people. Same long porch looking along gray composite deck boards with brick wall and dark green shutters to left, pale columns to right, shrubs beyond. Retain realistic board direction and modest real finishes. Remove the chair, boat and person from the distant yard only. Portrait composition, output 2160x3840 4K."
+  },
+  "gallery-kitchen-sink": {
+    "native": [
+      941,
+      1672
+    ],
+    "master": [
+      2160,
+      3840
+    ],
+    "upscaled": true,
+    "width": 1122,
+    "height": 1995,
+    "reference": "post-07-01",
+    "prompt": "Use case: precise-object-edit / photorealistic-natural. Recreate the real renovation in the reference as a clean high-resolution architectural photograph for a website demo. Preserve the actual project: room geometry, cabinet arrangement, building shape, materials, finishes, colors and proportions. Improve sharpness, balanced exposure, straight verticals and photographic clarity. Keep it believable and ordinary, not a luxury redesign. Remove phone screenshot borders, collage graphics, captions, watermark and promotional text. No invented furniture, rooms, fixtures, features or people. Keep the gray shaker cabinets above and below the double stainless sink, off-white counters, pass-through opening behind the faucet and dark wood floor. Remove loose cardboard box and tools from counter. No new island or appliances. Portrait framing, output 2160x3840 4K."
+  },
+  "gallery-kitchen-entry": {
+    "native": [
+      941,
+      1672
+    ],
+    "master": [
+      2160,
+      3840
+    ],
+    "upscaled": true,
+    "width": 1122,
+    "height": 1995,
+    "reference": "post-07-02",
+    "prompt": "Use case: precise-object-edit / photorealistic-natural. Recreate the real renovation in the reference as a clean high-resolution architectural photograph for a website demo. Preserve the actual project: room geometry, cabinet arrangement, building shape, materials, finishes, colors and proportions. Improve sharpness, balanced exposure, straight verticals and photographic clarity. Keep it believable and ordinary, not a luxury redesign. Remove phone screenshot borders, collage graphics, captions, watermark and promotional text. No invented furniture, rooms, fixtures, features or people. Same opening into the small gray-cabinet kitchen with white counters, peninsula front left, a square flush ceiling light and brown wood-look floor. Keep opening dimensions, existing plain backsplash and layout. Remove loose tools only. Portrait framing, output 2160x3840 4K."
+  },
+  "gallery-finished-room": {
+    "native": [
+      1672,
+      941
+    ],
+    "master": [
+      3840,
+      2160
+    ],
+    "upscaled": true,
+    "width": 1536,
+    "height": 864,
+    "reference": "post-09-03",
+    "prompt": "Use case: precise-object-edit / photorealistic-natural. Recreate the real renovation in the reference as a clean high-resolution architectural photograph for a website demo. Preserve the actual project: room geometry, cabinet arrangement, building shape, materials, finishes, colors and proportions. Improve sharpness, balanced exposure, straight verticals and photographic clarity. Keep it believable and ordinary, not a luxury redesign. Remove phone screenshot borders, collage graphics, captions, watermark and promotional text. No invented furniture, rooms, fixtures, features or people. Same empty finished room: warm pale walls, white baseboard, brown wood-look flooring, ceiling fan/light, single window with white blind and closet opening. Keep room empty. Balance the harsh light and straighten camera. Landscape framing, output 3840x2160 4K."
+  },
+  "gallery-deck-detail": {
+    "native": [
+      941,
+      1672
+    ],
+    "master": [
+      2160,
+      3840
+    ],
+    "upscaled": true,
+    "width": 1122,
+    "height": 1995,
+    "reference": "post-00-00",
+    "prompt": "Use case: precise-object-edit / photorealistic-natural. Recreate the real renovation in the reference as a clean high-resolution architectural photograph for a website demo. Preserve the actual project: room geometry, cabinet arrangement, building shape, materials, finishes, colors and proportions. Improve sharpness, balanced exposure, straight verticals and photographic clarity. Keep it believable and ordinary, not a luxury redesign. Remove phone screenshot borders, collage graphics, captions, watermark and promotional text. No invented furniture, rooms, fixtures, features or people. Use ONLY the lower-right finished porch photo as reference, a closer photographic detail along the gray composite deck beside brick wall with green shutters, pale posts and neatly finished board edges. No added railings or changed design. Portrait, output 2160x3840 4K."
+  },
+  "service-kitchen": {
+    "native": [
+      1672,
+      941
+    ],
+    "master": [
+      3840,
+      2160
+    ],
+    "upscaled": true,
+    "width": 1536,
+    "height": 864,
+    "reference": "post-07-01",
+    "prompt": "Use case: precise-object-edit / photorealistic-natural. Recreate the real renovation in the reference as a clean high-resolution architectural photograph for a website demo. Preserve the actual project: room geometry, cabinet arrangement, building shape, materials, finishes, colors and proportions. Improve sharpness, balanced exposure, straight verticals and photographic clarity. Keep it believable and ordinary, not a luxury redesign. Remove phone screenshot borders, collage graphics, captions, watermark and promotional text. No invented furniture, rooms, fixtures, features or people. Wider level architectural view of the same finished gray-cabinet sink area and pass-through. Remove cardboard and loose tools, preserve the real white counters and double stainless sink and all cabinet divisions. Landscape 3840x2160 4K."
+  },
+  "service-decks": {
+    "native": [
+      1672,
+      941
+    ],
+    "master": [
+      3840,
+      2160
+    ],
+    "upscaled": true,
+    "width": 1536,
+    "height": 864,
+    "reference": "post-00-00",
+    "prompt": "Use case: precise-object-edit / photorealistic-natural. Recreate the real renovation in the reference as a clean high-resolution architectural photograph for a website demo. Preserve the actual project: room geometry, cabinet arrangement, building shape, materials, finishes, colors and proportions. Improve sharpness, balanced exposure, straight verticals and photographic clarity. Keep it believable and ordinary, not a luxury redesign. Remove phone screenshot borders, collage graphics, captions, watermark and promotional text. No invented furniture, rooms, fixtures, features or people. Use the central stairs and white handrails of the UPPER finished porch photo. A medium view showing those same gray composite stair treads, white rail posts, brick facade and porch landing. Preserve real design and materials. No text or collage. Landscape 3840x2160 4K."
+  },
+  "service-paint": {
+    "native": [
+      1672,
+      941
+    ],
+    "master": [
+      3840,
+      2160
+    ],
+    "upscaled": true,
+    "width": 1536,
+    "height": 864,
+    "reference": "post-09-03",
+    "prompt": "Use case: precise-object-edit / photorealistic-natural. Recreate the real renovation in the reference as a clean high-resolution architectural photograph for a website demo. Preserve the actual project: room geometry, cabinet arrangement, building shape, materials, finishes, colors and proportions. Improve sharpness, balanced exposure, straight verticals and photographic clarity. Keep it believable and ordinary, not a luxury redesign. Remove phone screenshot borders, collage graphics, captions, watermark and promotional text. No invented furniture, rooms, fixtures, features or people. Same finished empty room, closer view emphasizing the pale newly painted walls, white trim and smooth ceiling, with the real white ceiling fan and brown floor. Natural balanced real-estate photo, no furniture. Landscape 3840x2160 4K."
+  },
+  "service-trim": {
+    "native": [
+      1672,
+      941
+    ],
+    "master": [
+      3840,
+      2160
+    ],
+    "upscaled": true,
+    "width": 1536,
+    "height": 864,
+    "reference": "post-07-02",
+    "prompt": "Use case: precise-object-edit / photorealistic-natural. Recreate the real renovation in the reference as a clean high-resolution architectural photograph for a website demo. Preserve the actual project: room geometry, cabinet arrangement, building shape, materials, finishes, colors and proportions. Improve sharpness, balanced exposure, straight verticals and photographic clarity. Keep it believable and ordinary, not a luxury redesign. Remove phone screenshot borders, collage graphics, captions, watermark and promotional text. No invented furniture, rooms, fixtures, features or people. Same kitchen doorway and peninsula, a closer eye-level view focusing on the clean white baseboard and opening trim against pale walls and brown wood-look flooring. Keep actual kitchen visible beyond; no added construction features. Landscape 3840x2160 4K."
+  },
+  "service-storm": {
+    "native": [
+      1672,
+      941
+    ],
+    "master": [
+      3840,
+      2160
+    ],
+    "upscaled": true,
+    "width": 1536,
+    "height": 864,
+    "reference": "post-06-01",
+    "prompt": "Use case: precise-object-edit / photorealistic-natural. Recreate the real renovation in the reference as a clean high-resolution architectural photograph for a website demo. Preserve the actual project: room geometry, cabinet arrangement, building shape, materials, finishes, colors and proportions. Improve sharpness, balanced exposure, straight verticals and photographic clarity. Keep it believable and ordinary, not a luxury redesign. Remove phone screenshot borders, collage graphics, captions, watermark and promotional text. No invented furniture, rooms, fixtures, features or people. Recreate the water-damaged drywall ceiling faithfully, with the same stain pattern, peeling paper, visible small recessed light and surrounding white ceiling. This is a repair assessment photo, NOT a finished repair. Keep damage visible, sharp and believable. No dramatic invented damage, no tools, no person. Landscape 3840x2160 4K."
+  },
+  "about-craft": {
+    "native": [
+      941,
+      1672
+    ],
+    "master": [
+      2160,
+      3840
+    ],
+    "upscaled": true,
+    "width": 1122,
+    "height": 1995,
+    "reference": "post-00-00",
+    "prompt": "Use case: precise-object-edit / photorealistic-natural. Recreate the real renovation in the reference as a clean high-resolution architectural photograph for a website demo. Preserve the actual project: room geometry, cabinet arrangement, building shape, materials, finishes, colors and proportions. Improve sharpness, balanced exposure, straight verticals and photographic clarity. Keep it believable and ordinary, not a luxury redesign. Remove phone screenshot borders, collage graphics, captions, watermark and promotional text. No invented furniture, rooms, fixtures, features or people. Use ONLY the LOWER LEFT in-progress porch photo as reference, showing exposed horizontal timber joists beside the existing brick house and green shutters, with shrubs and pale porch columns. Crisp natural photograph of the real construction process, with no people added. Do not convert it into a finished porch. Portrait, output 2160x3840 4K."
+  },
+  "contact-room": {
+    "native": [
+      1672,
+      941
+    ],
+    "master": [
+      3840,
+      2160
+    ],
+    "upscaled": true,
+    "width": 1536,
+    "height": 864,
+    "reference": "post-09-03",
+    "prompt": "Use case: precise-object-edit / photorealistic-natural. Recreate the real renovation in the reference as a clean high-resolution architectural photograph for a website demo. Preserve the actual project: room geometry, cabinet arrangement, building shape, materials, finishes, colors and proportions. Improve sharpness, balanced exposure, straight verticals and photographic clarity. Keep it believable and ordinary, not a luxury redesign. Remove phone screenshot borders, collage graphics, captions, watermark and promotional text. No invented furniture, rooms, fixtures, features or people. A quiet alternate framing of the SAME finished empty room, favoring the window with white blind, warm pale wall, white baseboard and brown flooring. Do not furnish it or add any features. Balanced soft interior lighting, landscape 3840x2160 4K."
+  },
+  "vanguard-logo": {
+    "native": [
+      1920,
+      819
+    ],
+    "width": 1920,
+    "height": 806
+  }
+}
